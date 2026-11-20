@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and the Ultralytics project."
+title: "DowEffi-YOLOv8n"
+type: software
+license: AGPL-3.0-only
+abstract: "Code release for a row-direction-aware maize seedling detector from UAV RGB imagery."
+preferred-citation:
+  type: article
+  title: "A lightweight row-direction-aware framework for maize seedling detection and plot-scale counting from UAV RGB imagery"
+  status: submitted

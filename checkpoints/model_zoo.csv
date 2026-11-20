@@ -1,0 +1,2 @@
+model_id,architecture,seed,training_protocol,checkpoint_sha256,status,download_url
+doweffi-yolov8n-seed0,configs/models/yolov8_EfficientHead_NWDLoss.yaml,0,100 epochs; imgsz 640; fixed split,50046cc8cabaa0dc2de6e2c39330b9f705fd43e931e0dab061e72095a1a2c31a,local_release_asset_zip_verified_torch_load_pending,

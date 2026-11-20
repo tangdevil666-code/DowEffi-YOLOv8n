@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.pt
+*.cache
+runs/
+release_assets/
+data/
+images/
+labels/
+*.env
+*.key
